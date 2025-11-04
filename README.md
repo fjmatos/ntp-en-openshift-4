@@ -1,7 +1,7 @@
 # Cómo usar el script
 
-## 1. Guarda el script
-Copia el código anterior y guárdalo en un archivo llamado `apply-ntp-config.sh`.
+## 1. Descarga el script 
+Descarga el fichero llamado `apply-ntp-config.sh`.
 
 ## 2. Dale permisos de ejecución
 Abre un terminal y ejecuta:
